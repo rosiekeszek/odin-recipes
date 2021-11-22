@@ -1,0 +1,25 @@
+@charset "utf-8";
+/*CSS Document*/
+
+body {
+    text-align: center;
+}
+
+.header {
+    font-size: 45px;
+}
+
+.images {
+    width: 400px;
+    height: auto;
+}
+
+.caption {
+    color: #92BEC1;
+    
+}
+
+.list {
+    text-align: left;
+}
+
